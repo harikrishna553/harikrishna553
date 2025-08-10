@@ -51,8 +51,6 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishna553&theme=nightowl&hide_border=true"
          alt="GitHub contribution streak" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=harikrishna553&limit=5&theme=nightowl&combine_all_yearly_contributions=true"
-         alt="Top open source contributions by Harikrishna553" />
 </div>
 
 <hr />
