@@ -18,7 +18,7 @@
 <!-- Tech Stack -->
 <h2>⚒️ Technology Stack</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,mysql,redis,mongodb,elasticsearch,bigquery,docker,kubernetes,git,github,maven,linux"
+    <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,mysql,redis,mongodb,elasticsearch,docker,kubernetes,git,github,maven,linux"
          alt="Technology stack icons for Java, Spring, Kotlin, Groovy, Python, JavaScript, TypeScript, MySQL, Redis, MongoDB, Elasticsearch, BigQuery, Docker, Kubernetes, Git, GitHub, Maven, Linux" />
 </div>
 
