@@ -10,7 +10,6 @@
 <p align="center">
     <img src="https://img.shields.io/github/followers/harikrishna553?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/harikrishna553?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars" />
-    <img src="https://img.shields.io/github/commit-activity/y/harikrishna553?label=Commits&style=for-the-badge&logo=github" alt="GitHub Commits" />
 </p>
 
 <hr />
